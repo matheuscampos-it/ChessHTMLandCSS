@@ -1,0 +1,14 @@
+.box {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: -2px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
